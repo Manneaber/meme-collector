@@ -1,0 +1,33 @@
+{
+  "id": "monkeyp",
+  "name": "Monkey Puppet",
+  "canvasWidth": 600,
+  "canvasHeight": 600,
+  "img": {
+    "file": "imgs/1.jpg",
+    "width": 600,
+    "height": 321,
+    "offsetX": 0,
+    "offsetY": 279
+  },
+  "captions": [
+    {
+      "width": 600,
+      "height": 200,
+      "offsetX": 0,
+      "offsetY": 0,
+      "size": "full",
+      "alignment": "center",
+      "color": "#000000"
+    },
+    {
+      "width": 600,
+      "height": 70,
+      "offsetX": 0,
+      "offsetY": 209,
+      "size": "normal",
+      "alignment": "left",
+      "color": "#000000"
+    }
+  ]
+}
