@@ -3,7 +3,7 @@
   "name": "Monkey Puppet",
   "canvasWidth": 600,
   "canvasHeight": 600,
-  "canvasBackgroundColor": "#000000",
+  "canvasBackgroundColor": "#ffffff",
   "img": {
     "file": "imgs/1.jpg",
     "width": 600,
