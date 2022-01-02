@@ -3,6 +3,7 @@
   "name": "Monkey Puppet",
   "canvasWidth": 600,
   "canvasHeight": 600,
+  "canvasBackgroundColor": "#000000",
   "img": {
     "file": "imgs/1.jpg",
     "width": 600,
@@ -12,21 +13,21 @@
   },
   "captions": [
     {
-      "width": 600,
+      "width": 570,
       "height": 200,
-      "offsetX": 0,
+      "offsetX": 15,
       "offsetY": 70,
-      "size": "full",
-      "alignment": "center",
+      "size": 70,
+      "alignment": "left",
       "color": "#000000",
       "weight": "regular"
     },
     {
-      "width": 600,
+      "width": 570,
       "height": 70,
-      "offsetX": 0,
+      "offsetX": 15,
       "offsetY": 209,
-      "size": "normal",
+      "size": 70,
       "alignment": "left",
       "color": "#000000",
       "weight": "regular"
