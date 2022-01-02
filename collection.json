@@ -1,4 +1,4 @@
-{
+[{
   "id": "monkeyp",
   "name": "Monkey Puppet",
   "canvasWidth": 600,
@@ -30,4 +30,4 @@
       "color": "#000000"
     }
   ]
-}
+}]
