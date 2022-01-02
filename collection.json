@@ -1,4 +1,5 @@
-[{
+[
+  {
   "id": "monkeyp",
   "name": "Monkey Puppet",
   "canvasWidth": 600,
@@ -35,4 +36,43 @@
       "wrap": false
     }
   ]
-}]
+},
+{
+  "id": "batmanslap",
+  "name": "Batman Slap",
+  "canvasWidth": 600,
+  "canvasHeight": 600,
+  "canvasBackgroundColor": "#FFFFFF",
+  "img": {
+    "file": "imgs/2.jpg",
+    "width": 600,
+    "height": 600,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "captions": [
+    {
+      "width": 260,
+      "height": 600,
+      "offsetX": 134,
+      "offsetY": 58,
+      "size": 30,
+      "weight": "regular",
+      "alignment": "center",
+      "color": "#000000",
+      "wrap": false
+    },
+    {
+      "width": 310,
+      "height": 600,
+      "offsetX": 445,
+      "offsetY": 65,
+      "size": 30,
+      "weight": "regular",
+      "alignment": "center",
+      "color": "#000000",
+      "wrap": false
+    }
+  ]
+}
+]
