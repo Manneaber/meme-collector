@@ -18,7 +18,8 @@
       "offsetY": 0,
       "size": "full",
       "alignment": "center",
-      "color": "#000000"
+      "color": "#000000",
+      "weight": "regular"
     },
     {
       "width": 600,
@@ -27,7 +28,8 @@
       "offsetY": 209,
       "size": "normal",
       "alignment": "left",
-      "color": "#000000"
+      "color": "#000000",
+      "weight": "regular"
     }
   ]
 }]
