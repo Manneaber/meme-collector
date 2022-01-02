@@ -20,7 +20,8 @@
       "size": 70,
       "alignment": "left",
       "color": "#000000",
-      "weight": "regular"
+      "weight": "regular",
+      "wrap": false
     },
     {
       "width": 570,
@@ -30,7 +31,8 @@
       "size": 70,
       "alignment": "left",
       "color": "#000000",
-      "weight": "regular"
+      "weight": "regular",
+      "wrap": false
     }
   ]
 }]
