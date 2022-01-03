@@ -112,5 +112,54 @@
         "wrap": false
       }
     ]
+  },
+  {
+    "id": "panik",
+    "name": "Panik Kalm Panik",
+    "canvasWidth": 500,
+    "canvasHeight": 688,
+    "canvasBackgroundColor": "#ffffff",
+    "img": {
+      "file": "imgs/4.jpg",
+      "width": 500,
+      "height": 688,
+      "offsetX": 0,
+      "offsetY": 0
+    },
+    "captions": [
+      {
+        "width": 230,
+        "height": 125,
+        "offsetX": 122,
+        "offsetY": 130,
+        "size": 70,
+        "weight": "regular",
+        "alignment": "center",
+        "color": "#000000",
+        "wrap": false
+      },
+      {
+        "width": 230,
+        "height": 125,
+        "offsetX": 122,
+        "offsetY": 362,
+        "size": 70,
+        "weight": "regular",
+        "alignment": "center",
+        "color": "#000000",
+        "wrap": false
+      },
+      {
+        "width": 230,
+        "height": 125,
+        "offsetX": 122,
+        "offsetY": 586,
+        "size": 70,
+        "weight": "regular",
+        "alignment": "center",
+        "color": "#000000",
+        "wrap": false
+      }
+    ]
   }
 ]
