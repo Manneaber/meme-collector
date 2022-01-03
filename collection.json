@@ -1,78 +1,116 @@
 [
   {
-  "id": "monkeyp",
-  "name": "Monkey Puppet",
-  "canvasWidth": 600,
-  "canvasHeight": 600,
-  "canvasBackgroundColor": "#ffffff",
-  "img": {
-    "file": "imgs/1.jpg",
-    "width": 600,
-    "height": 321,
-    "offsetX": 0,
-    "offsetY": 279
-  },
-  "captions": [
-    {
-      "width": 570,
-      "height": 200,
-      "offsetX": 15,
-      "offsetY": 70,
-      "size": 70,
-      "alignment": "left",
-      "color": "#000000",
-      "weight": "regular",
-      "wrap": false
+    "id": "monkeyp",
+    "name": "Monkey Puppet",
+    "canvasWidth": 600,
+    "canvasHeight": 600,
+    "canvasBackgroundColor": "#ffffff",
+    "img": {
+      "file": "imgs/1.jpg",
+      "width": 600,
+      "height": 321,
+      "offsetX": 0,
+      "offsetY": 279
     },
-    {
-      "width": 570,
-      "height": 70,
-      "offsetX": 15,
-      "offsetY": 209,
-      "size": 70,
-      "alignment": "left",
-      "color": "#000000",
-      "weight": "regular",
-      "wrap": false
-    }
-  ]
-},
-{
-  "id": "batmanslap",
-  "name": "Batman Slap",
-  "canvasWidth": 600,
-  "canvasHeight": 600,
-  "canvasBackgroundColor": "#FFFFFF",
-  "img": {
-    "file": "imgs/2.jpg",
-    "width": 600,
-    "height": 600,
-    "offsetX": 0,
-    "offsetY": 0
+    "captions": [
+      {
+        "width": 570,
+        "height": 200,
+        "offsetX": 15,
+        "offsetY": 70,
+        "size": 70,
+        "alignment": "left",
+        "color": "#000000",
+        "weight": "regular",
+        "wrap": false
+      },
+      {
+        "width": 570,
+        "height": 70,
+        "offsetX": 15,
+        "offsetY": 209,
+        "size": 70,
+        "alignment": "left",
+        "color": "#000000",
+        "weight": "regular",
+        "wrap": false
+      }
+    ]
   },
-  "captions": [
-    {
-      "width": 260,
+  {
+    "id": "batmanslap",
+    "name": "Batman Slap",
+    "canvasWidth": 600,
+    "canvasHeight": 600,
+    "canvasBackgroundColor": "#FFFFFF",
+    "img": {
+      "file": "imgs/2.jpg",
+      "width": 600,
       "height": 600,
-      "offsetX": 134,
-      "offsetY": 58,
-      "size": 30,
-      "weight": "regular",
-      "alignment": "center",
-      "color": "#000000",
-      "wrap": false
+      "offsetX": 0,
+      "offsetY": 0
     },
-    {
-      "width": 310,
-      "height": 600,
-      "offsetX": 445,
-      "offsetY": 65,
-      "size": 30,
-      "weight": "regular",
-      "alignment": "center",
-      "color": "#000000",
-      "wrap": false
-    }
-  ]
-}
+    "captions": [
+      {
+        "width": 260,
+        "height": 600,
+        "offsetX": 134,
+        "offsetY": 58,
+        "size": 30,
+        "weight": "regular",
+        "alignment": "center",
+        "color": "#000000",
+        "wrap": false
+      },
+      {
+        "width": 310,
+        "height": 600,
+        "offsetX": 445,
+        "offsetY": 65,
+        "size": 30,
+        "weight": "regular",
+        "alignment": "center",
+        "color": "#000000",
+        "wrap": false
+      }
+    ]
+  },
+  {
+    "id": "drake",
+    "name": "Drake Hotline Bling",
+    "canvasWidth": 500,
+    "canvasHeight": 500,
+    "canvasBackgroundColor": "#64CF82",
+    "img": {
+      "file": "imgs/3.jpg",
+      "width": 500,
+      "height": 500,
+      "offsetX": 0,
+      "offsetY": 0
+    },
+    "captions": [
+      {
+        "width": 250,
+        "height": 250,
+        "offsetX": 255,
+        "offsetY": 140,
+        "size": 70,
+        "weight": "regular",
+        "alignment": "left",
+        "color": "#000000",
+        "wrap": false
+      },
+      {
+        "width": 250,
+        "height": 250,
+        "offsetX": 255,
+        "offsetY": 388,
+        "size": 70,
+        "weight": "regular",
+        "alignment": "left",
+        "color": "#000000",
+        "wrap": false
+      }
+    ]
+  }
 ]
