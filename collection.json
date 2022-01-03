@@ -92,22 +92,22 @@
       {
         "width": 250,
         "height": 250,
-        "offsetX": 255,
+        "offsetX": 376,
         "offsetY": 140,
         "size": 70,
         "weight": "regular",
-        "alignment": "left",
+        "alignment": "center",
         "color": "#000000",
         "wrap": false
       },
       {
         "width": 250,
         "height": 250,
-        "offsetX": 255,
+        "offsetX": 376,
         "offsetY": 388,
         "size": 70,
         "weight": "regular",
-        "alignment": "left",
+        "alignment": "center",
         "color": "#000000",
         "wrap": false
       }
